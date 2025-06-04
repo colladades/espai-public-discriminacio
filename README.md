@@ -22,7 +22,7 @@ Aquí trobareu una recopilació de conjunts de dades obertes, dades scrapejades,
 ## Dades Scrapejades
 - [YouTube 24,247 videos “Barcelona” “Barrios” “Violencia”](data/20050101-20250604_youtube_barrios-violencia-barcelona_01.csv) (YouTube Data Tools / Video List)
 - [YouTube 5,575 videos “Barcelona” “Barrios” “Peligrosos”](data/20050101-20250604_youtube_barrios-peligrosos-barcelona_01.csv) (YouTube Data Tools / Video List)
-- [YouTube 292 videos "jovenlandia"|"jovenlandes"](data/20050101-20250604_youtube_jovenlandes_01) (YouTube Data Tools / Video List)
+- [YouTube 292 videos "jovenlandia"|"jovenlandes"](data/20050101-20250604_youtube_jovenlandes_01.csv) (YouTube Data Tools / Video List)
 
 ## Informes
 - [Memòria 2024 de l'Oficina per la No Discriminació](https://ajuntament.barcelona.cat/oficina-no-discriminacio/ca/noticia/publicada-la-memoria-2024-de-l-oficina-per-la-no-discriminacio) (OND Barcelona)
