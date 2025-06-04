@@ -20,9 +20,9 @@ Aquí trobareu una recopilació de conjunts de dades obertes, dades scrapejades,
 - [Odi i discriminació](https://mossos.gencat.cat/ca/els_mossos_desquadra/indicadors_i_qualitat/dades_obertes/Visors_altres_dades/odi_discriminacio/). (Mossos d’Esquadra/Generalitat Catalunya)
 
 ## Dades Scrapejades
-- YouTube 24,247 videos “Barcelona” “Barrios” “Violencia” (YouTube Data Tools / Video List)
-- YouTube 5,575 videos “Barcelona” “Barrios” “Peligrosos” (YouTube Data Tools / Video List)
-
+- [YouTube 24,247 videos “Barcelona” “Barrios” “Violencia”](data/20050101-20250604_youtube_barrios-violencia-barcelona_01.csv) (YouTube Data Tools / Video List)
+- [YouTube 5,575 videos “Barcelona” “Barrios” “Peligrosos”](data/20050101-20250604_youtube_barrios-peligrosos-barcelona_01.csv) (YouTube Data Tools / Video List)
+- [YouTube 292 videos "jovenlandia"|"jovenlandes"](data/20050101-20250604_youtube_jovenlandes_01) (YouTube Data Tools / Video List)
 
 ## Informes
 - [Memòria 2024 de l'Oficina per la No Discriminació](https://ajuntament.barcelona.cat/oficina-no-discriminacio/ca/noticia/publicada-la-memoria-2024-de-l-oficina-per-la-no-discriminacio) (OND Barcelona)
@@ -30,6 +30,8 @@ Aquí trobareu una recopilació de conjunts de dades obertes, dades scrapejades,
 - [Assetjament Racista](https://sosracisme.org/analisi-de-dades-sobre-casos-dassetjament-racista-en-contextos-de-convivencia-veinal/) (SOS Racisme)
 - [Racisme Veïnal](https://infogram.com/infografiaracismeveinal-1h984wo9gqkxd6p) (SOS Racisme)
 - [Informe de l’Observatori de les Discriminacions a Barcelona 2023](https://ajuntament.barcelona.cat/oficina-no-discriminacio/node/250) (OND Barcelona)
+- [Visor Odi i discriminació Catalunya](https://mossos.gencat.cat/ca/els_mossos_desquadra/indicadors_i_qualitat/dades_obertes/Visors_altres_dades/odi_discriminacio/#dades-obertes) (Mossos d’Esquadra/Generalitat Catalunya)
+
 
 
 
