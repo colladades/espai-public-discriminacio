@@ -1,6 +1,8 @@
 # espai-public-discriminacio
 Dades obertes, referències i exploracions sobre espai públic i discriminació a Barcelona.
 
+### ⚠️ Repositori migrat a [GitLab](https://gitlab.com/colladades/espai-public-discriminacio) 🦊✨
+
 ## Sobre aquest repositori
 Aquí trobareu una recopilació de conjunts de dades obertes, dades scrapejades, visualitzacions de dades, informes i altres recursos sobre temes relacionats a la discriminació i l'espai públic a Barcelona.
 
